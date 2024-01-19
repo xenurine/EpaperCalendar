@@ -1,0 +1,10 @@
+2024,01,01,,, New Year Day
+2024,01,19,,, Test Bank Holiday
+2024,03,29,,, Good Friday
+2024,04,01,,, Easter Monday
+2024,04,06,,, Early May Holiday
+2024,04,27,,, Sping Bnk Holiday
+2024,08,26,,, Summer Bnk Holiday
+2024,12,25,,, Chrisrmas Day
+2024,12,26,,, Boxing Day
+2025,01,01,,, New Year Day
